@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: rezaonline <info@rezaonline.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-download-mirror-counter.php:95,140
+msgid "File Not found!"
+msgstr "فایلی نیست ."
+
+#: wp-download-mirror-counter.php:146,
+#: 161, 210
+msgid "Download :"
+msgstr "دانلود"
+
+#: wp-download-mirror-counter.php:148,163,212
+msgid "From: "
+msgstr "از"
+
+#: wp-download-mirror-counter.php:179
+msgid "DL Mirror Counter"
+msgstr ""
+
+#: wp-download-mirror-counter.php:180
+msgid "Add Files"
+msgstr "افزودن فایل"
+
+#: wp-download-mirror-counter.php:181
+msgid "All Files and edit"
+msgstr "تمامی فایلها و ویرایش"
+
+#: wp-download-mirror-counter.php:182
+msgid "DL Counter"
+msgstr "شمارشگر دانلود"
+
+#: wp-download-mirror-counter.php:205
+msgid "Download Mirror Counter Options - Templates"
+msgstr ""
+
+#: wp-download-mirror-counter.php:206
+msgid "Please fill all field for best view ."
+msgstr "لطفاً تمامی فیلدها را با توجه به آنچه خودتان لازم میدانید پّر کنید . فیلدها به همان ترتیبی که نشان داده شده اند در سایت تاثیر داده میشوند."
+
+#: wp-download-mirror-counter.php:217
+msgid "Server(1)Link"
+msgstr "لینک سرور اول"
+
+#: wp-download-mirror-counter.php:221
+msgid "Server(2)Link"
+msgstr "لینک سرور دوم"
+
+#: wp-download-mirror-counter.php:226
+msgid "Server(3)Link"
+msgstr "لینک سرور سوم"
+
+#: wp-download-mirror-counter.php:226
+msgid "Server(4)Link"
+msgstr "لینک سرور چهارم"
+
+#: wp-download-mirror-counter.php:226
+msgid "Server(5)Link"
+msgstr "لینک سرور پنجم"
+
+#: wp-download-mirror-counter.php:220
+msgid "Ibidem"
+msgstr "ایضاً"
+
+#: wp-download-mirror-counter.php:291
+msgid "File Not added! Some field is empty!"
+msgstr "فایل اضافه نشد . بعضی فیلدها خالی هستند!"
+
+#: wp-download-mirror-counter.php:296,422
+msgid "File Title :"
+msgstr "عنوان فایل :"
+
+#: wp-download-mirror-counter.php:300
+msgid "Starting File Hits :"
+msgstr "شمارش دانلود از :"
+
+#: wp-download-mirror-counter.php:304
+msgid "Add mirrors =>"
+msgstr "افزودن لینک سرور کمکی (mirror servers)"
+
+#: wp-download-mirror-counter.php:311
+msgid "Server(1) Name :"
+msgstr "نام سرور اول :"
+
+#: wp-download-mirror-counter.php:318
+msgid "Server(2) Name :"
+msgstr "نام سرور دوم :"
+
+#: wp-download-mirror-counter.php:325
+msgid "Server(3) Name :"
+msgstr "نام سرور سوم :"
+
+#: wp-download-mirror-counter.php:332
+msgid "Server(4) Name :"
+msgstr "نام سرور چهارم :"
+
+#: wp-download-mirror-counter.php:339
+msgid "Server(5) Name :"
+msgstr "نام سرور پنجم :"
+
+#: wp-download-mirror-counter.php:315
+msgid "Server(1) Link :"
+msgstr "لینک سرور اول :"
+
+#: wp-download-mirror-counter.php:322
+msgid "Server(2) Link :"
+msgstr "لینک سرور دوم :"
+
+#: wp-download-mirror-counter.php:330
+msgid "Server(3) Link :"
+msgstr "لینک سرور سوم :"
+
+#: wp-download-mirror-counter.php:338
+msgid "Server(4) Link :"
+msgstr "لینک سرور چهارم :"
+
+#: wp-download-mirror-counter.php:343
+msgid "Server(5) Link :"
+msgstr "لینک سرور پنجم :"
+
+#: wp-download-mirror-counter.php:358
+msgid "for example : "
+msgstr "برای مثال :"
+
+#: wp-download-mirror-counter.php:379
+msgid "The selected file have been deleted."
+msgstr "فایل انتخابی حذف شد ."
+
+#: wp-download-mirror-counter.php:428
+msgid "Edit mirrors =>"
+msgstr "ویرایش لینک سرورهای کمکی "
+
+#: wp-download-mirror-counter.php:520,467
+msgid "Title"
+msgstr "عنوان"
+
+#: wp-download-mirror-counter.php:521
+msgid "Download chart"
+msgstr "نمودار دانلود"
+
+#: wp-download-mirror-counter.php:468
+msgid "Servers mirror"
+msgstr "سرورهای دانلود(Servers mirror)"
+
+#: wp-download-mirror-counter.php:469
+msgid "Actions"
+msgstr "عملیات"
+
+#: wp-download-mirror-counter.php:512
+msgid "Hits"
+msgstr "تعداد کلیک"
+
